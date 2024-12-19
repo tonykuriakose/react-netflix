@@ -1,5 +1,5 @@
-import NavBar from "./Components/NavBar/NavBar";
 import './App.css'
+import NavBar from "./Components/NavBar/NavBar";
 import Banner from "./Components/Banner/Banner";
 import RowPost from "./Components/RowPost/RowPost";
 import { ACTION_URL, COMEDY_URL, HORROR_URL, NETFLIX_ORIG, TRENDING_URL } from "./constants/constants";
